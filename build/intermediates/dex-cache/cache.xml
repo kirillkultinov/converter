@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/7ab8703d1112c180f48ab93aa25a517f2e0ff758/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ae15705f3431f843661745735694a63f26032f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/faa49be026088309463a821a02d0b3edc2e9969d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b08aa1a15653c33248fd478bc868df15bb062497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/d7ba505284ba58fdfe278cfc173b8a02ba977bc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40bdfd7047f39212aa13cdb0cb37c6960a14f555">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cdf12d87a90e375cf4a19576a5eeed2b7b027c90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/14e33f52f4ec0eeef2d1e7418b683fc0090c9cad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_533fe487f17d1354cc352b64889aecf21b74026a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Desktop/Converter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a0825a66716c4b595acb603fc77636ec2de13f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/4a52d2b840bcf6deb660b6e5786b48d9d7ecb624/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0dec4c70e730d815f82565787afb104940b3b8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/009b24d1cb16befadd0bf361a634a57ea90eb242/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9014691765ae10cb423605fd72a5d8bdc1557f9">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92206f86853f593b9ac0271c8754b75a83bdbe6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/92bbc28a5174dd3833c34bc96a684038bd0d26f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="05a8106b4fcd85311ead700e37a58faf16587ad5">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0519dadc7f8fd795b8df9f019490b0aaf97dcae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/d6c2ec85236ac1dff0d808b2a12d82c499c56bc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fbc5697748d6d6b2271636c0452e1668dc4c9da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/168ba2e30ea453d4128c590dd55de8feee054e0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf3ffe5581da2c9755ef82726d05abb6b78928fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_ffcef5d1dbbb0bf46ecc78564e0127065f61f3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/7f0c05fa9d5e829e179850f8369cacd6e34e53ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70af56e9174d52eb801595b105ea12cf81214c3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/e881100e7df015b2d370b99acb6a894637e10985/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c16a411913cd418f259d79bd5eb1d30599c7525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/f0d0d6bd79377c52c7918f47cd63a4599ab03922/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0f89b6e67d14020d9cd3421653f78dd0cabfce9e">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4d83cd823f4762147cbf868616ee640471a93ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/cb741b761e822196982a8c7804b3d11b51e33844/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e32f5f6a9be85cbd2cca223bdf8ef53eb543a703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/ef90e09b9da3ef4c48404cebd9316ee6d599da4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ca1f7d5ad3894b7c36ffd2475d5a17bc3b6c26a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/aebc378fd2a6e18923d5bd80d11f97b905013c02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_388646c92e4d70d98f8d5f1f78eeaf3709eb942c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/441cc4f96cd5245badb954788efe9022ca2535fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="21db106772f23d18eebc82c12d20cc112a7164aa">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81cfdb60675de83371a4e2eefb721e9e39bc4dec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/027ddc89b96dee86a17abba9f19996f38fa043d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12d1d4bc7068778aa970751462c0e415e7191690">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_355aab380f298a8fef00a78454ad8f02ef146708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Desktop/Converter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2970f0fe0ac7a12b4676f49231a4b942811c3ac0">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5f36734db29984bcbb426081d1e336acf615072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/d44379fbced5ab84898f4fc83a84ca4787ac64f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fda1338841bb25b836ddd558ab28890d74bb9ec1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/d21f0005c9b4de10e81bd0e0c5187faed300999d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02de9ef3b1d4af578c51d6596fce54597bc033f9">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c42bd4f81a4749923a065ec5c691b54be5df602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/16a8051028911e06e8dc374b381f678d62d401ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3aaf51c5836193ddc9c4a2cec9ddcde32c8b15c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/522d415c89c4d8222139ce35524b15f76e85a525/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97c40cd494770cd1cdb0f879c8426269a2d76702">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3321e13a4c67f3a6ac979bfeae1eabf6c4aff123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/5c595d6fb8d0bcef1b702b37646fcded62ee395e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68a30f328a8d9d9cebed7762f9de88919c1f7d89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/.android/build-cache/1bb3ef0125ead0b3f46b05381ecc8b1a5ce03d10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d81d411ed1f5e803728f4b48b513f47a1fcd5e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/kirill/Desktop/Converter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_bad85f9cfbafe316e2010839f8116af5a88f1e93/classes.dex" />
+    </item>
+
+</items>
